@@ -7,3 +7,5 @@
 5. android studio, kotlin
 6. 학원에서 변경했다
 7. 집에서 변경했다.
+8. ios 공부하기 (swift)
+9. mac os 공부하기
