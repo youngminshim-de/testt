@@ -6,3 +6,4 @@
 4. java
 5. android studio, kotlin
 6. 학원에서 변경했다
+7. 집에서 변경했다.
