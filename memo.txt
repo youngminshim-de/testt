@@ -5,3 +5,4 @@
 3. javascript
 4. java
 5. android studio, kotlin
+6. 집에서 변경했다.
